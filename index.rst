@@ -7,6 +7,12 @@
 
 .. important::
 
+   此版本非官方版本，此版本为笔者对原文的中文翻译版。仅用于学习交流。
+   
+   由于笔者语言水平有限，翻译可能存在一定偏差，在难以理解的部分可寻找原文档进行深入探究。
+
+   本文正处于翻译过程中，因此会显示为中英文混合在一起的状态。
+
    Version |opspy_version| is released!
 
    OpenSeesPy is on :doc:`src/pypi`.
@@ -29,10 +35,11 @@
 
 
 ========================
- The OpenSeesPy Library
+  OpenSeesPy 库
 ========================
-`OpenSeesPy`_ is a `Python 3`_ interpreter of `OpenSees`_.
-A minimum script is shown below:
+
+`OpenSeesPy`是采用 `Python 3`解释的 `OpenSees`_.
+以下是一个最简单的代码:
 
 ::
 
@@ -61,12 +68,15 @@ To run a test of the pip installation:
 ============
  Developer
 ============
-
+原作者：
 *Minjie Zhu*
 
 | Research Associate 
 | Civil and Construction Engineering
 | Oregon State University
+
+翻译：
+*Li Zhengning*
 
    
 .. toctree::
